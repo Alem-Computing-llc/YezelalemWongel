@@ -1,0 +1,13 @@
+State: Running
+Themes: 
+Modules: 
+Name: Default
+DataProvider: SqlServer
+DataConnectionString: Data Source=.;Initial Catalog=YezelalemWongel; Integrated Security=true
+DataTablePrefix: YW
+RequestUrlHost: null
+RequestUrlPrefix: null
+EncryptionAlgorithm: AES
+EncryptionKey: E1CDE35CA2721FE97B2A1C5B5A9F3D568F0B08E502F6828B661500697C03D0FC
+HashAlgorithm: HMACSHA256
+HashKey: E6262FEBCD5AF4F4D00B7676680ABC00C21B9BF17AD27ACFECA4B21A1B9D04F074ADA10CD544B78D882ED672F737D92A910E63C26260D77A6CF933B1E55DA168
